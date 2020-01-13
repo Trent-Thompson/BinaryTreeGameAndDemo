@@ -1,6 +1,5 @@
 //
-// File:		Major3-TrentThompson.cpp
-// Assignment:	Major 3
+// File:		BinaryTreeGameAndDemo.cpp
 // Programmer:	Trent Thompson
 // Date:		April 3, 2019
 // Description:	This program is an example of what can be done with STL lists, and binary
